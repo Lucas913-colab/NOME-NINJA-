@@ -1,4 +1,4 @@
-﻿﻿Console.WriteLine("--- Nome Ninja ---\n");
+﻿﻿Console.WriteLine("--------Nome Ninja--------");
 
 Console.Write("Digite seu nome: ");
 string nome = Console.ReadLine()!;
